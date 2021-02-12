@@ -1,0 +1,25 @@
+body{
+    margin:0;
+}
+
+.navbarframe{
+    background-color: rgb(148, 149, 250);
+    margin-right: 0px;
+}
+.contentframe{
+    margin-left: 0px;
+}
+footer{
+    background-color: black;
+    height: 10vh;
+}
+footer p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+.footer_icons{
+    color: black;
+    text-align:right;
+}
